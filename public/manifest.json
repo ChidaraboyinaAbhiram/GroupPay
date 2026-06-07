@@ -1,0 +1,15 @@
+{
+  "short_name": "GroupPay",
+  "name": "GroupPay — Smart Expense Sharing",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#070a13",
+  "theme_color": "#a855f7",
+  "display": "standalone"
+}
